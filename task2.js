@@ -27,6 +27,15 @@ function studentGrader(score){
     }
     // return decision;
 
-    studentGrader(70);
+ 
+
+    // git add .
+    // git commit -m "commit message"
+    // git push -u origin master
+
+    // git -help
+    // git status
 
 }
+
+studentGrader(70);

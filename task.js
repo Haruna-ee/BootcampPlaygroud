@@ -18,6 +18,7 @@ function millenialChecker(age){
         return "not millenial"
         // console.log("not millenial");
     }
-console.log(millenialChecker(age));
+
 
 }
+console.log(millenialChecker(age));
